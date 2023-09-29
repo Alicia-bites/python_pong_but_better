@@ -2,7 +2,7 @@
 A small project to learn Python
 
 Another pong game!
-Two players can play on the same machine, using the same keybaord.
+Two players can play on the same machine, using the same keyboard.
 
 Player 1 will use up, down, right and left arrows.
 	- up  : go up
